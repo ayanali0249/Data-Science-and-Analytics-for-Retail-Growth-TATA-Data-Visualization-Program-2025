@@ -41,14 +41,11 @@ The project explores retail data using various tools and technologies to uncover
 
 ---
 
-
----
-
 ## Visualizations  
 Here are some key visualizations from the project:  
 
 1. **Python**  
-   [Top Customers Revenue PDF](https://github.com/ayanali0249/Data-Science-and-Analytics-for-Retail-Growth-TATA-Data-Visualization-Program-2025/blob/main/Solution%20Using%20Python.pdf)
+   [Solution Using Python PDF](https://github.com/ayanali0249/Data-Science-and-Analytics-for-Retail-Growth-TATA-Data-Visualization-Program-2025/blob/main/Solution%20Using%20Python.pdf)
    
 2. **Power BI**  
    [Solution Using Power BI PDF](https://github.com/ayanali0249/Data-Science-and-Analytics-for-Retail-Growth-TATA-Data-Visualization-Program-2025/blob/main/Solution%20Using%20Power%20BI.pdf)  
@@ -69,13 +66,14 @@ Here are some key visualizations from the project:
 3. Run Python scripts for analysis:
      ```bash  
    python python-scripts/time_series_analysis.py  
-4. Open dashboards in Power BI or Tableau for interactive visualizations:
-   Power BI: dashboards/power_bi_dashboard.pbix
-   Tableau: dashboards/tableau_dashboard.twb
+4. Open Dashboards for Interactive Visualizations
+- **Power BI**: [Download Power BI Dashboard](dashboards/power_bi_dashboard.pbix)
+- **Tableau**: [Download Tableau Dashboard](dashboards/tableau_dashboard.twb)
 
-**Contact**
-For any queries, feel free to reach out:
-Ayan Ali
-Email: [ayanali0249@gmail.com]
-LinkedIn: (https://www.linkedin.com/in/ayan-ali0249)
-Instagram: (https://www.instagram.com/ayan_ali_0249)
+**Contact**  
+For any queries, feel free to reach out:  
+
+**Ayan Ali**  
+**Email**: ayanali0249@gmail.com  
+**LinkedIn**: [linkedin.com/in/ayan-ali0249](https://www.linkedin.com/in/ayan-ali0249)  
+**Instagram**: [instagram.com/ayan_ali_0249](https://www.instagram.com/ayan_ali_0249)  
