@@ -1,0 +1,25 @@
+# Online Retail Data Analysis Questions
+
+## Question 1: Revenue Time Series for 2011 (Monthly)
+The CEO of the retail store is interested in viewing the time series of the revenue data for the year 2011 only. The analysis should:
+- Focus on revenue for each month of 2011.
+- Highlight seasonal trends.
+- Include reasons behind the trends to help forecast for the next year.
+
+## Question 2: Top 10 Countries by Revenue (Excluding UK)
+The CMO wants to:
+- View the top 10 countries generating the highest revenue.
+- Include the quantity sold along with the revenue generated.
+- Exclude the United Kingdom from this visual.
+
+## Question 3: Top 10 Customers by Revenue
+The CMO is interested in:
+- Viewing the top 10 customers ranked by revenue.
+- Visualizing the greatest revenue-generating customer at the start, gradually declining to lower revenue-generating customers.
+- Targeting high-revenue customers to maintain their satisfaction.
+
+## Question 4: Product Demand by Region (Excluding UK)
+The CEO wants to:
+- Identify regions (all countries except UK) with the greatest demand for their products.
+- Visualize the entire data in a single view without scrolling or hovering over data points.
+- Use these insights to initiate an expansion strategy in high-demand regions.
