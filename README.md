@@ -1,0 +1,2 @@
+# Data-Science-and-Analytics-for-Retail-Growth-TATA-Data-Visualization-Program-2025
+A comprehensive data analytics case study using Python, Excel, Power BI, MySQL, and Tableau, completed in the TATA Data Visualization Program 2025. It analyzes revenue trends, customer segmentation, product demand, and country-level insights, featuring interactive dashboards, time series analysis, and actionable business insights.
