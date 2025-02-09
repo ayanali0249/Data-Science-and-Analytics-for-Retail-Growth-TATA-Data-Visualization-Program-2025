@@ -7,7 +7,7 @@ csv_files = [
     ('Online Retail Data Set.csv', 'Online Retail Data Set') # Added payments.csv for specific handling
 ]
 
-# Connect to the MySQL database
+# Connect to the MySQL database 
 conn = mysql.connector.connect(
     host='your_host',
     user='your_username',
