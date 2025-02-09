@@ -1,25 +1,13 @@
-# Online Retail Data Analysis Questions
+# Business Questions for Analysis
 
-## Question 1: Revenue Time Series for 2011 (Monthly)
-The CEO of the retail store is interested in viewing the time series of the revenue data for the year 2011 only. The analysis should:
-- Focus on revenue for each month of 2011.
-- Highlight seasonal trends.
-- Include reasons behind the trends to help forecast for the next year.
+## Question 1
+The CEO of the retail store is interested in viewing the time series of the revenue data for the year 2011 only. He would like to view granular data by analyzing revenue for each month. The CEO is interested in seasonal trends and wants to explore why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 
-## Question 2: Top 10 Countries by Revenue (Excluding UK)
-The CMO wants to:
-- View the top 10 countries generating the highest revenue.
-- Include the quantity sold along with the revenue generated.
-- Exclude the United Kingdom from this visual.
+## Question 2
+The CMO is interested in viewing the top 10 countries that are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to include the United Kingdom in this visual.
 
-## Question 3: Top 10 Customers by Revenue
-The CMO is interested in:
-- Viewing the top 10 customers ranked by revenue.
-- Visualizing the greatest revenue-generating customer at the start, gradually declining to lower revenue-generating customers.
-- Targeting high-revenue customers to maintain their satisfaction.
+## Question 3
+The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue-generating customer at the start and gradually declines to the lower revenue-generating customers. The CMO wants to target the higher revenue-generating customers and ensure that they remain satisfied with their products.
 
-## Question 4: Product Demand by Region (Excluding UK)
-The CEO wants to:
-- Identify regions (all countries except UK) with the greatest demand for their products.
-- Visualize the entire data in a single view without scrolling or hovering over data points.
-- Use these insights to initiate an expansion strategy in high-demand regions.
+## Question 4
+The CEO is looking to gain insights into the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions with high demand, he will initiate an expansion strategy to target these areas and generate more business. He wants to view the entire data on a single view without needing to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom, as the CEO is more interested in viewing the countries with expansion opportunities.
